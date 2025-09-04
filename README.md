@@ -3,7 +3,7 @@
 - Idade: 16
 - Cidade: Alvares Machado
 - GitHub: https://github.com/teski230
-- E-mail: felipe.teski@gmail.com
+- E-mail: felipe.teskiteski@gmail.com
 --- 
 # 🎯Objetivo Profissional
  - Busco integrar uma equipe onde possa aplicar minhas habilidades, desenvolver novas competências e contribuir para o crescimento sustentável da empresa.
@@ -28,7 +28,7 @@
  ---
  # 🤔Interesses 
  - Desenvolvimento Mobile
- - Desenvolvimento de jogos mobile e pc
+ - Trabalhar no Exterior
  ---
 # 🏆Qualidades
 - Interação Social
@@ -36,8 +36,8 @@
 - Dedicação
 --- 
 # ⚠️Pontos a melhorar 
-- Deixar tudo pro ultimo momento
-- Dormir menos 
+- Gestão de tempo
+- Melhorar habilidades com liderança
 ---
 # 🚀Metas em ate 5 anos  
 - Tirar habilitação
@@ -49,5 +49,4 @@
 # 🎨Hobbies 
 - Jogar jogos online
 - Fazer academia 
-- Tomar tereré 
-- Fazer nada 
+- Tomar tereré
