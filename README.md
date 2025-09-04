@@ -1,7 +1,7 @@
 # Perfil Profissional👨‍💻
 - Nome: Felipe Teski
 - Idade: 16
-- Cidade: Xique-Xique - BA
+- Cidade: Alvares Machado
 - GitHub: https://github.com/teski230
 - E-mail: felipe.teski@gmail.com
 --- 
